@@ -1,5 +1,1 @@
 4
-
-- [ ] Take some more GitHub skills courses
-- [ ] Update your readme.md file
-- [ ] Make your website using RStudio to get off of Squarespace
