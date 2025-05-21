@@ -9,3 +9,9 @@ Here's an image of a sloth.
 ```{r}
 init.var <- "Hello world"
 ```
+
+### Making a list
+
+- [ ] Take some more GitHub skills courses
+- [ ] Update your readme.md file
+- [ ] Make your website using RStudio to get off of Squarespace
